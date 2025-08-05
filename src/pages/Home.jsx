@@ -87,7 +87,7 @@ function Home() {
                   A Google Search themed portfolio website.
                 </p>
                 <a
-                  href="https://github.com/ayushman247/Basic-crud-App"
+                  href="https://github.com/ayushman247/gfolio"
                   target="_blank"
                   rel="noreferrer"
                   className="btn-project-link !text-[#5271fc] font-semibold"
